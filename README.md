@@ -11,6 +11,7 @@ This is a small program I built to parse XML feeds returned from [discog.com](ht
 Cheers!
 
 Mike Manewitz
+
 [mike.manewitz@gmail.com](mailto:mike.manewitz@gmail.com?subject="You%20are%20awesome")
 
 github: [manewitz](http://www.github.com/manewitz)
